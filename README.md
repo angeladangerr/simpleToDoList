@@ -5,3 +5,6 @@ This to-do list website includes:
 - A "+" button to add the task
 - Strikethrough when clicking on the task to "mark as complete"
 - A delete button to delete the task from the list
+
+
+Tutorial I followed: https://youtu.be/cOUNOi297Mw?si=JDGGRxMQMWgs3udq
